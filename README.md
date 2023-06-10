@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJS,Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [notyet.githubpages](notyet.githubpages)
+- 👨‍💻 My website portfolio: [notyet.githubpages](notyet.githubpages)
 
 - 📫 Contact me: **nemanjaciric2006@gmail.com**
 
@@ -11,3 +11,4 @@
 <p align="left">
 <a href="https://linkedin.com/in/ciric-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="ciric-dev" height="30" width="40" /></a>
 </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neckezz&show_icons=true&locale=en&layout=compact" alt="neckezz" /></p>
