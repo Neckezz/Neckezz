@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi , I'm Nemanja Ćirić</h1>
 <h3 align="center">Friendly, team cooperative Front End Web Developer.</h3>
 
